@@ -1,7 +1,8 @@
-#styles{
-    margin: 0;
-    padding: 0;
-    background-color:rgb(132, 186, 233);
+#styles {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./img/fondoAnimado.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
-

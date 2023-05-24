@@ -1,4 +1,4 @@
-import './app.css'
+import './asset/app.css'
 import { Button } from './componentes/button';
 import { Home } from './pages/home';
 
@@ -10,6 +10,7 @@ function App() {
       <Button text="enviar" />
 
     </div>
+
   );
 }
 
