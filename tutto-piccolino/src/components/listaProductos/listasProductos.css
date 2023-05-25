@@ -1,0 +1,21 @@
+.conteiner-general {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 15px;
+}
+
+.card-conteiner {
+    background-color: rgb(174, 217, 255);
+    margin: 30px auto;
+    width: 330px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+
+
+}
+
+.imgCard {
+    height: 300px;
+}
